@@ -1,4 +1,5 @@
-# Project and Work Portfolio
+# Project Portfolio
+
 
 ### University of Vienna (2024 - Actual): MSc, Data Science
 #### Mining Massive Data Programming Assignments
@@ -9,16 +10,23 @@
 
 #### Visual and Exploratory Data Analysis
 - Created interactive data visualizations and dashboards using Tableau
-- **A3:** Designed both a *white-hat affective* visualization [white-hat affective](https://public.tableau.com/views/A3-affectivewhitehat/affectivewhitehat?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to subtly influence users' emotions through and a *black-hat* visualization [black-hat](https://public.tableau.com/views/A3-blackhat_17461051437810/blackhat?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that intentionally misleads viewers.
+- **A3:** Designed both a [*white-hat affective* visualization](https://public.tableau.com/views/A3-affectivewhitehat/affectivewhitehat?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to subtly influence users' emotions through and a [*black-hat* visualization](https://public.tableau.com/views/A3-blackhat_17461051437810/blackhat?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that intentionally misleads viewers.
 - **A5:** Developed two interactive dashboards tailored for different user groups [A5 Dashboards](https://public.tableau.com/views/A5_Sumegi_Geza/Dashboard1WWFActivists?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link):
  - For data journalists: Built a dashboard forecasting disaster risk levels for Austria in the upcoming year, and highlighted Austria's standing across key climate indicators.
  - For WWF activists: Created a dashboard that allows them to explore climate-related indicators for all countries, with emphasis on the most vulnerable or heavily affected regions.
 
-#### Budapest University of Technology and Economics (2021 - 2024): BSc, Mathematics
-- Graduated with highest honours - **GPA: 4.99/5**
-- Specialized in Data Science: Machine Learning, Applied Statistics, Data Visualization
-- Team projects: Stock Market Forecasting, Song Popularity Prediction
-- Thesis topic: Network analysis of diffusion processes,  Supervisor: Johannes Wachs
+#### Seminar in Empirical Finance and Financial Econometrics
+
+
+### Budapest University of Technology and Economics (2021 - 2024): BSc, Mathematics
+#### Stock Market Forecasting
+- Applied ARIMA and LSTM models to predict stock prices using both one-step-ahead and dynamic predictions.
+- Analyzed time series in Python.
+
+#### Song Popularity Prediction
+- Analyzed the popularity of songs using Spotify data.
+- Created a song popularity index tailored to the Hungarian market.
+
 
 ### Work Experience
 #### Budapest University of Technology and Economics (2023 Fall): Teaching Assistant
@@ -29,21 +37,3 @@
 - **Student Tutor:** Tutored first-year students in Calculus and Algebra for two semesters. Supported students in improving grades through regular review sessions.
 - **DataCamp:**  Received the *Associate Data Scientist*, *AI Engineer for Data Scientists Associate* and *AI Fundamentals* certificates. Gained experience with LangChain and HuggingFace.
 - **Media-Tech Hackathon- Put News Archives To Life:** Developed a named entity recognition and sentiment analysis tool for journalists.
-
-### Core Skills
-- Statistics
-- Machine Learning, LLMs
-- Databases
-- Optimization
-- Data Visualization
-
-### Programming Skills
-- Python, R
-- SQL
-- C++, Matlab
-- MS Excel, Tableau
-
-### Languages
-- English - Proficient (C1 Level)
-- German - Intermediate (B2 Level)
-- Hungarian - Native
