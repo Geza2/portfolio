@@ -27,13 +27,3 @@
 - Analyzed the popularity of songs using Spotify data.
 - Created a song popularity index tailored to the Hungarian market.
 
-
-### Work Experience
-#### Budapest University of Technology and Economics (2023 Fall): Teaching Assistant
-- Graded Probability Theory Assignments
-- Provided personalized feedback reports to all students which fostered improved learning outcomes
-
-### Extra-curricular activities
-- **Student Tutor:** Tutored first-year students in Calculus and Algebra for two semesters. Supported students in improving grades through regular review sessions.
-- **DataCamp:**  Received the *Associate Data Scientist*, *AI Engineer for Data Scientists Associate* and *AI Fundamentals* certificates. Gained experience with LangChain and HuggingFace.
-- **Media-Tech Hackathon- Put News Archives To Life:** Developed a named entity recognition and sentiment analysis tool for journalists.
