@@ -1,5 +1,3 @@
-# Géza Sümegi
-
 ## University Project Portfolio
 
 
