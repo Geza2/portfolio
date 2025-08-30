@@ -17,7 +17,7 @@
 - Evaluated the impact of major macroeconomic and political events
 - [Link to Repo](https://github.com/kerim325/SE_EmpiricalFinance)
 
-
+<br>
 
 ### Budapest University of Technology and Economics (2021 - 2024): BSc, Mathematics
 #### Thesis: Quantifying the Diffusion of Software between Countries
