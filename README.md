@@ -16,9 +16,10 @@
  - For WWF activists: Created a dashboard that allows them to explore climate-related indicators for all countries, with emphasis on the most vulnerable or heavily affected regions.
 
 #### Seminar in Empirical Finance and Financial Econometrics
-- Investigated the volatility dynamics of U.S. Treasury yield using GARCH models
+- Wrote a seminar thesis on the volatility dynamics of U.S. Treasury yield using GARCH models
 - Evaluated the impact of major macroeconomic and political events
 - [Link to Repo](https://github.com/kerim325/SE_EmpiricalFinance)
+
 
 
 ### Budapest University of Technology and Economics (2021 - 2024): BSc, Mathematics
