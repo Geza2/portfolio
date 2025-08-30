@@ -1,4 +1,4 @@
-# Project Portfolio
+# University Project Portfolio
 
 
 ### University of Vienna (2024 - Actual): MSc, Data Science
@@ -16,9 +16,17 @@
  - For WWF activists: Created a dashboard that allows them to explore climate-related indicators for all countries, with emphasis on the most vulnerable or heavily affected regions.
 
 #### Seminar in Empirical Finance and Financial Econometrics
+- Investigated the volatility dynamics of U.S. Treasury yield using GARCH models
+- Evaluated the impact of major macroeconomic and political events
+- [Link to Repo](https://github.com/kerim325/SE_EmpiricalFinance)
 
 
 ### Budapest University of Technology and Economics (2021 - 2024): BSc, Mathematics
+#### Thesis: Quantifying the Diffusion of Software between Countries
+- Worked with a large dataset on OSS download data
+- Analyzed the data with time series methods (Granger Causality, Transfer Entropy), and with network-approaches
+- Proposed a correction for a Python package
+
 #### Stock Market Forecasting
 - Applied ARIMA and LSTM models to predict stock prices using both one-step-ahead and dynamic predictions.
 - Analyzed time series in Python.
@@ -26,4 +34,5 @@
 #### Song Popularity Prediction
 - Analyzed the popularity of songs using Spotify data.
 - Created a song popularity index tailored to the Hungarian market.
+
 
