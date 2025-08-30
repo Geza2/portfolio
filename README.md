@@ -1,3 +1,5 @@
+## University Project Portfolio
+
 ### University of Vienna (2024 - Actual): MSc, Data Science
 #### Mining Massive Data Programming Assignments
 - **PA1:** Developed a genre-classifying algorithm using Locality Sensitive Hashing LSH with a random projection matrix.
