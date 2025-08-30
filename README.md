@@ -1,4 +1,4 @@
-## University Project Portfolio
+# Géza Sümegi - University Project Portfolio
 
 ### University of Vienna (2024 - Actual): MSc, Data Science
 #### Mining Massive Data Programming Assignments
